@@ -1,0 +1,53 @@
+[
+    {
+        "captured_at": "2016-08-14T15:07:32.000Z",
+        "channel_id": null,
+        "device_id": 100221,
+        "devicetype_id": "Pointcast V1",
+        "height": 13,
+        "id": 69966139,
+        "latitude": 31.833193,
+        "location_name": null,
+        "longitude": 130.301922,
+        "original_id": 69966139,
+        "sensor_id": null,
+        "station_id": null,
+        "unit": "cpm",
+        "user_id": 759,
+        "value": 40.0
+    },
+    {
+        "captured_at": "2016-08-14T16:05:58.000Z",
+        "channel_id": null,
+        "device_id": 100221,
+        "devicetype_id": "Pointcast V1",
+        "height": 13,
+        "id": 69966365,
+        "latitude": 31.833193,
+        "location_name": null,
+        "longitude": 130.301922,
+        "original_id": 69966365,
+        "sensor_id": null,
+        "station_id": null,
+        "unit": "cpm",
+        "user_id": 759,
+        "value": 32.0
+    },
+    {
+        "captured_at": "2016-08-14T16:11:03.000Z",
+        "channel_id": null,
+        "device_id": 100221,
+        "devicetype_id": "Pointcast V1",
+        "height": 13,
+        "id": 69966404,
+        "latitude": 31.833193,
+        "location_name": null,
+        "longitude": 130.301922,
+        "original_id": 69966404,
+        "sensor_id": null,
+        "station_id": null,
+        "unit": "cpm",
+        "user_id": 759,
+        "value": 35.0
+    }
+]
